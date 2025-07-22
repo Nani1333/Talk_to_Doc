@@ -38,7 +38,7 @@ RAG\_basic/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RAG_basic.git
+git clone https://github.com/Nani1333/RAG_basic.git
 cd RAG_basic
 ````
 
@@ -145,4 +145,5 @@ Databricks is a platform that provides tools for building and managing big data 
 ## 🙋‍♂️ Author
 
 Developed by [T. Sriram](https://github.com/Nani1333)
+
 Feel free to open issues or suggestions!
