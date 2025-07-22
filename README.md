@@ -1,6 +1,6 @@
-# 🔍 RAG_basic — Retrieval-Augmented Generation using ChromaDB + Gemini
+# 🔍 RAG_Naive — Retrieval-Augmented Generation using ChromaDB + Gemini
 
-**RAG_basic** is a simple implementation of a Retrieval-Augmented Generation (RAG) pipeline using:
+**RAG_Naive** is a simple implementation of a Retrieval-Augmented Generation (RAG) pipeline using:
 
 - 🧠 **Google Gemini 1.5 Flash** for natural language understanding and response generation
 - 🗃️ **ChromaDB** for fast vector similarity search
@@ -23,7 +23,7 @@
 
 ```
 
-RAG\_basic/
+RAG\_Naive/
 ├── app.py                # Main application script
 ├── .env                  # Environment variables (API key, DB path)
 ├── chroma\_db/            # Local vector database (auto-created)
@@ -38,8 +38,8 @@ RAG\_basic/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nani1333/RAG_basic.git
-cd RAG_basic
+git clone https://github.com/Nani1333/RAG_Naive.git
+cd RAG_Naive
 ````
 
 ### 2. Create and activate a virtual environment
