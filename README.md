@@ -146,5 +146,3 @@ Databricks is a platform that provides tools for building and managing big data 
 
 Developed by [T. Sriram](https://github.com/Nani1333)
 Feel free to open issues or suggestions!
-
-```
