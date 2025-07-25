@@ -117,7 +117,7 @@ def generate_response(question, relevant_chunks):
         return "Sorry, I couldn't generate an answer right now."
 
 # Example usage
-question = "Tell me about Databricks"
+question = "Tell me about the SpaceX Starship launch."
 relevant_chunks = query_documents(question)
 answer = generate_response(question, relevant_chunks)
 
